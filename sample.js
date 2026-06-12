@@ -6,3 +6,26 @@ console.log(a+b)
 console.log(a-b)
 console.log(a*b)
 console.log(a/b)
+
+
+
+//ASSIGNMENT 
+console.log("assignmet operator")
+var c =15
+console.log(c+=5)
+console.log(c-=5)
+console.log(c*=5)
+console.log(c/=5)
+console.log(c%=5)
+
+
+//comparison
+var a=10
+var b=20
+var c=30
+console.log("comparison operator")
+console.log(a==b)
+console.log(a!=b)
+console.log(c>=5)
+console.log(c<=5)
+
