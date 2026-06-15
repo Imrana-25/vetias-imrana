@@ -1,5 +1,6 @@
 
 //arrithmetic
+console.log("arrithmetic operator")
 var a=10
 var b=6
 console.log(a+b)
